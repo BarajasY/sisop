@@ -10,10 +10,7 @@ export default function App() {
     <Router
       root={props => (
         <MetaProvider>
-          <Title>SolidStart - Basic</Title>
-          <Link rel="preconnect" href="https://fonts.googleapis.com" />
-          <Link rel="preconnect" href="https://fonts.gstatic.com" />
-          <Link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet" />
+          <Title>Linux</Title>
           <Suspense>{props.children}</Suspense>
         </MetaProvider>
       )}

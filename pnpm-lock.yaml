@@ -34,6 +34,9 @@ devDependencies:
   '@unocss/preset-icons':
     specifier: ^0.63.6
     version: 0.63.6
+  '@unocss/preset-web-fonts':
+    specifier: ^0.63.6
+    version: 0.63.6
 
 packages:
 
@@ -1720,7 +1723,6 @@ packages:
     dependencies:
       '@unocss/core': 0.63.6
       ofetch: 1.4.1
-    dev: false
 
   /@unocss/preset-wind@0.63.6:
     resolution: {integrity: sha512-W3oZ2TXSqStNE+X++kcspRTF2Szu2ej6NW5Kiyy6WQn/+ZD77AF4VtvzHtzFVZ2QKpEIovGBpU5tywooHbB7hw==}
