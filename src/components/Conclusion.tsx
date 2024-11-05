@@ -51,7 +51,7 @@ export const Conclusion: Component<props> = (props) => {
         <div class="flex flex-col">
           <h1 class="p-2 text-3xl text-teal-900 font-bold border-b-1px border-b-solid border-b-teal-500 w-fit">Ricardo Daniel Pérez Maldonado</h1>
 
-          <p class="w-full p-2 text-xl text-teal-900 font-semibold"></p>
+          <p class="w-full p-2 text-xl text-teal-900 font-semibold">Linux es un sistema operativo que con el paso del tiempo se ha vuelto escencial para empresas  enfocadas a las tecnologías de la información; su interfaz de línea de comandos y código abierto hace que sea amado por muchos programadores y amantes de la informática. Su corazón de código abierto para muchos lo más importante, hace que se pueda modificar, utilizar y redistribuir por cualquier persona, u empresa; lo cual ha generado diferentes versiones o distribuciones basados en Linux como Ubuntu, Fedora, RedHad entre otros. Esto también implica la personalización de su entorno visual, es gratuito, a nivel de usuario solo tiene pocas amenazas, sus actualizaciones son diarias contribuidas por programadores y hay grandes comunidades que se apoyan en el soporte de Linux. Con un gran potencial de linux dominando su terminal se pueden realizar muchas cosas que en otros  sistemas no se puede realizar. Muchas veces nos enfocamos solo en los sistemas operativos basicos; sin probar algo nuevo que nos pueda brindar más conocimiento, experiencia como Linux que al punto de vista personal; ya es muy requerido en el área laboral.</p>
         </div>
 
         <div class="flex flex-col">
