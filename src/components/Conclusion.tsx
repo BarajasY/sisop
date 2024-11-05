@@ -21,7 +21,16 @@ export const Conclusion: Component<props> = (props) => {
         />
       </div>
 
-      <div class="flex w-60% gap-5 justify-center items-center flex-col text-justify mt-10">
+      <div class="flex w-60% gap-5 mb-10 justify-center items-center flex-col text-justify mt-10">
+        <div class="flex flex-col mb-10">
+          <h1 class="p-2 text-3xl text-teal-900 font-bold border-b-1px border-b-solid border-b-teal-500 w-fit">General</h1>
+
+          <p class="w-full p-2 text-xl text-teal-900 font-semibold">Linux es un sistema operativo que ha transformado la tecnología moderna gracias a su modelo de desarrollo abierto y a la comunidad global que lo respalda. Nació como un proyecto impulsado por la curiosidad y la creatividad, y ha evolucionado hasta convertirse en una de las plataformas más confiables y adaptables del mundo, utilizada en todo tipo de dispositivos, desde computadoras personales y servidores hasta supercomputadoras, dispositivos móviles y sistemas embebidos. La filosofía de Linux, basada en el software libre y en el poder de la colaboración, permite que millones de desarrolladores, empresas e instituciones de cualquier ámbito puedan acceder a su código fuente, adaptarlo y mejorar constantemente sus funcionalidades.</p>
+          <p class="w-full p-2 text-xl text-teal-900 font-semibold">Además de su flexibilidad, Linux destaca por su estabilidad y seguridad, lo que lo convierte en una opción privilegiada para entornos críticos como el empresarial, el científico y el gubernamental, donde la confiabilidad y la protección de datos son esenciales. Muchas distribuciones de Linux, cada una con sus particularidades, ofrecen configuraciones optimizadas para diferentes usos, desde entornos minimalistas y ligeros hasta sistemas completos orientados a servidores o desarrollo de software. Esto permite que cada usuario, ya sea un principiante o un experto, pueda encontrar una distribución que se adapte a sus necesidades y preferencias.</p>
+          <p class="w-full p-2 text-xl text-teal-900 font-semibold">Linux también fomenta el aprendizaje y el desarrollo de habilidades técnicas; su enfoque en el acceso abierto a sus entrañas hace que los usuarios puedan experimentar y aprender sobre el funcionamiento interno de un sistema operativo de una manera que otros sistemas privativos no permiten. Al mismo tiempo, contribuye a la democratización de la tecnología al ser gratuito y accesible, abriendo oportunidades para quienes buscan una alternativa libre de costos de licencia.</p>
+          <p class="w-full p-2 text-xl text-teal-900 font-semibold">La comunidad global que respalda Linux, compuesta por desarrolladores, profesionales y entusiastas, es uno de sus mayores activos, ya que impulsa mejoras, innovaciones y la resolución de problemas de manera continua. Linux no es solo un sistema operativo, sino un ecosistema que encarna los valores de la colaboración, la transparencia y la libertad, y su impacto seguirá creciendo a medida que más personas y organizaciones opten por adoptar esta plataforma abierta, que sigue redefiniendo el mundo de la informática y la tecnología en general.</p>
+        </div>
+
         <div class="flex flex-col">
           <h1 class="p-2 text-3xl text-teal-900 font-bold border-b-1px border-b-solid border-b-teal-500 w-fit">Laura Alicia Gallegos Moreno</h1>
 
